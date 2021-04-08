@@ -1,6 +1,8 @@
 # Jungle-Chatbox
 **Inspired by: https://github.com/acupoftee/kawaii-chatbox **
-Jungle themed chatbox using node.js and web sockets
+
+
+Jungle themed chatbox using node.js and web sockets, html, bootstrap
 
 
 
