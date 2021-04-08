@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+body{
+    padding: 15%;
+    background: no-repeat linear-gradient(-20deg, #336699 0%, #9ee493 100%, #daf7dc 100%);
+    color: white;
+    font-family: monospace, 'lucida console';
+  }
+
+  h1 {
+    text-shadow: 2px 1px 0px rgb(0,0,139);
+  }
+
+  .chat-button {
+    margin: 9px 0 9px 14px; 
+    width: 15px; 
+    height:15px; 
+    background-color:#9ee493; 
+    border-radius: 100%; 
+    box-shadow: 4px 4px #006400;
+  }

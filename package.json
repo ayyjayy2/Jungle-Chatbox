@@ -1,0 +1,33 @@
+{
+  "name": "chatroom0",
+  "version": "1.0.0",
+  "description": "chatroom practice inspired by chatbox from ILP node.js training and 'a Kawaii Introduction to Web Sockets & Socket.io' blog by Elisabeth Diang",
+  "main": "app.js",
+  "dependencies": {
+    "@babel/core": "^7.13.14",
+    "@babel/preset-env": "^7.13.12",
+    "@babel/register": "^7.13.14",
+    "babel-polyfill": "^6.26.0",
+    "bootstrap": "^4.6.0",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "jquery": "^3.6.0",
+    "payload": "^0.5.5",
+    "socket.io": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "none",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "chatbox",
+    "web",
+    "sockets",
+    "socket.io",
+    "node.js",
+    "html"
+  ],
+  "author": "Alayna Johnston",
+  "license": "ISC"
+}
